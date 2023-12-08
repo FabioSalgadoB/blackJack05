@@ -13,3 +13,5 @@ Pasos para ejecutar el proyecto
 2. Tomar las carpetas `dist` y desplegar
 
 # Link de acceso a la pagina
+
+https://fabiosalgadob.github.io/blackJack05/
